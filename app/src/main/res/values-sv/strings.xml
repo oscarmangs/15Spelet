@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">15-Spelet</string>
+    <string name="start">Nu kör vi</string>
+    <string name="blanda">Nu mixar vi</string>
+</resources>
